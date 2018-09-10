@@ -1,5 +1,5 @@
-This project is about:
- Shell, I/O Redirection
+This project is about 
+Shell, I/O Redirection
 
     What do the commands head, tail, find, wc, sort, uniq, grep, tr do
     How to redirect standard output to a file
